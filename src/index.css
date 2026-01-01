@@ -44,3 +44,7 @@ th, td {
 .status.pending {
   background: #ca8a04;
 }
+
+.chart-container {
+  margin: 2rem 0;
+}
